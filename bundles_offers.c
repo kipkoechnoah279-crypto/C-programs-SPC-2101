@@ -1,6 +1,6 @@
 /*
 Name:Noah Kipkoech 
-Reg no:PA106/G/28711/25
+Reg no:PA106/G/28709/25
 Date:1/10/2025
 Description:program to display offers for bundles
 */
@@ -38,6 +38,7 @@ int main(){
 }
 				
 	
+
 
 
 
