@@ -1,8 +1,8 @@
 /*
-Name:Aron Cheruiyot Rotrich
+Name:Noah Kipkoech 
 Reg no:PA106/G/28711/25
 Date:1/10/2025
-Description:program to display offers for various internet bundles
+Description:program to display offers for bundles
 */
 #include<stdio.h>
 
@@ -38,6 +38,7 @@ int main(){
 }
 				
 	
+
 
 
 
